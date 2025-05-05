@@ -9,4 +9,4 @@ elif unidade == "F":
     temp = round((temp - 32) * 5 / 9, 1)
     print(f"A Temperatura em Celsius é: {temp}°C ")
 else:
-    print(f"{unidade} não é uma unidade valida")
+    print(f"{unidade} não é uma unidade valida :(")
